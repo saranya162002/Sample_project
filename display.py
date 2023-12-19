@@ -7,5 +7,7 @@ data = pd.DataFrame({
     'second column': [10, 20, 30, 40],
 })
 st.write(data)
+st.write("Addition of lines")
+st.write("*****sample file*****")
 if st.button('Click me!'):
     st.write("Hiiiiiii,",name,"!")
